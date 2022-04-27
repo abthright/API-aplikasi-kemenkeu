@@ -1,0 +1,349 @@
+,biaya,kota_asal,kota_tujuan,kota_kabupaten
+0,275000,Banda Aceh,Aceh Barat,kabupaten
+1,298000,Banda Aceh,Aceh Barat Daya,kabupaten
+2,183000,Banda Aceh,Aceh Besar,kabupaten
+3,238000,Banda Aceh,Aceh Jaya,kabupaten
+4,325000,Banda Aceh,Aceh Selatan,kabupaten
+5,420000,Banda Aceh,Aceh Singkil,kabupaten
+6,315000,Banda Aceh,Aceh Tamiang,kabupaten
+7,293000,Banda Aceh,Aceh Tengah,kabupaten
+8,460000,Banda Aceh,Aceh Tenggara,kabupaten
+9,289000,Banda Aceh,Aceh Timur,kabupaten
+10,270000,Banda Aceh,Aceh Utara,kabupaten
+11,278000,Banda Aceh,Bener Meriah,kabupaten
+12,220000,Banda Aceh,Bireuen,kabupaten
+13,370000,Banda Aceh,Gayo Lues,kabupaten
+14,275000,Banda Aceh,Nagan Raya,kabupaten
+15,190000,Banda Aceh,Pidie,kabupaten
+16,205000,Banda Aceh,Pidie Jaya,kabupaten
+17,301000,Banda Aceh,Langsa,kota
+18,240000,Banda Aceh,Lhokseumawe,kota
+19,400000,Banda Aceh,Subulussalam,kota
+20,259000,Medan,Asahan,kabupaten
+21,225000,Medan,Batubara,kabupaten
+22,270000,Medan,Dairi,kabupaten
+23,186000,Medan,Deli Serdang,kabupaten
+24,300000,Medan,Humbang Hasundutan,kabupaten
+25,200000,Medan,Karo,kabupaten
+26,287000,Medan,Labuhan Batu,kabupaten
+27,360000,Medan,Labuhan Batu Selatan,kabupaten
+28,300000,Medan,Labuhan Batu Utara,kabupaten
+29,186000,Medan,Langkat,kabupaten
+30,420000,Medan,Mandailing,kabupaten
+31,420000,Medan,Mandailing Natal,kabupaten
+32,420000,Medan,Padang Lawas,kabupaten
+33,420000,Medan,Padang Lawas Utara,kabupaten
+34,300000,Medan,Pakpak Bharat,kabupaten
+35,330000,Medan,Samosir,kabupaten
+36,200000,Medan,Serdang Bedagai,kabupaten
+37,264000,Medan,Simalungun,kabupaten
+38,328000,Medan,Tapanuli Selatan,kabupaten
+39,345000,Medan,Tapanuli Tengah,kabupaten
+40,330000,Medan,Tapanuli Utara,kabupaten
+41,300000,Medan,Toba Samosir,kabupaten
+42,180000,Medan,Binjai,kota
+43,225000,Medan,Pematang Siantar,kota
+44,345000,Medan,Sibolga,kota
+45,285000,Medan,Tanjung Balai,kota
+46,203000,Medan,Tebing Tinggi,kota
+47,380000,Pekanbaru,Indragiri Hilir,kabupaten
+48,315000,Pekanbaru,Indragiri Hulu,kabupaten
+49,200000,Pekanbaru,Kampar,kabupaten
+50,300000,Pekanbaru,Kuantan Singingi,kabupaten
+51,225000,Pekanbaru,Pelalawan,kabupaten
+52,350000,Pekanbaru,Rokan Hilir,kabupaten
+53,322000,Pekanbaru,Rokan Hulu,kabupaten
+54,350000,Pekanbaru,Siak,kabupaten
+55,400000,Pekanbaru,Dumai,kota
+56,185000,Tanjung Pinang,Bintan,kabupaten
+57,175000,Jambi,Batanghari,kabupaten
+58,270000,Jambi,Bungo,kabupaten
+59,325000,Jambi,Kerinci,kabupaten
+60,260000,Jambi,Merangin,kabupaten
+61,170000,Jambi,Muaro Jambi,kabupaten
+62,241000,Jambi,Sarolangun,kabupaten
+63,225000,Jambi,Tanjung Jabung Barat,kabupaten
+64,190000,Jambi,Tanjung Jabung Timur,kabupaten
+65,250000,Jambi,Tebo,kabupaten
+66,308000,Jambi,Sungai Penuh,kota
+67,225000,Padang,Agam,kabupaten
+68,250000,Padang,Dharmasraya,kabupaten
+69,225000,Padang,Lima Puluh Kota,kabupaten
+70,205000,Padang,Padang Pariaman,kabupaten
+71,250000,Padang,Pasaman,kabupaten
+72,250000,Padang,Pasaman Barat,kabupaten
+73,205000,Padang,Pesisir Selatan,kabupaten
+74,225000,Padang,Sijunjung,kabupaten
+75,210000,Padang,Solok,kabupaten
+76,250000,Padang,Solok Selatan,kabupaten
+77,220000,Padang,Tanah Datar,kabupaten
+78,215000,Padang,Bukit Tinggi,kota
+79,210000,Padang,Padang Panjang,kota
+80,200000,Padang,Pariaman,kota
+81,225000,Padang,Payakumbuh,kota
+82,215000,Padang,Sawahlunto,kota
+83,210000,Padang,Solok,kota
+84,203000,Palembang,Banyuasin,kabupaten
+85,315000,Palembang,Empat Lawang,kabupaten
+86,250000,Palembang,Lahat,kabupaten
+87,235000,Palembang,Muara Enim,kabupaten
+88,235000,Palembang,Musi Banyuasin,kabupaten
+89,320000,Palembang,Musi Rawas,kabupaten
+90,325000,Palembang,Musi Rawas Utara,kabupaten
+91,205000,Palembang,Ogan Ilir,kabupaten
+92,248000,Palembang,Ogan Komering Ulu,kabupaten
+93,250000,Palembang,Ogan Komering Ulu Selatan,kabupaten
+94,245000,Palembang,Ogan Komering Ulu Timur,kabupaten
+95,265000,Palembang,Pali,kabupaten
+96,290000,Palembang,Lubuk Linggau,kota
+97,280000,Palembang,Pagar Alam,kota
+98,205000,Palembang,Prabumulih,kota
+99,270000,Bandar Lampung,Lampung Barat,kabupaten
+100,234000,Bandar Lampung,Lampung Selatan,kabupaten
+101,246000,Bandar Lampung,Lampung Tengah,kabupaten
+102,246000,Bandar Lampung,Lampung Timur,kabupaten
+103,252000,Bandar Lampung,Lampung Utara,kabupaten
+104,276000,Bandar Lampung,Mesuji,kabupaten
+105,216000,Bandar Lampung,Pesawaran,kabupaten
+106,200000,Bandar Lampung,Pesisir Barat,kabupaten
+107,222000,Bandar Lampung,Pringsewu,kabupaten
+108,240000,Bandar Lampung,Tanggamus,kabupaten
+109,252000,Bandar Lampung,Tulang Bawang,kabupaten
+110,267000,Bandar Lampung,Tulang Bawang Barat,kabupaten
+111,270000,Bandar Lampung,Way Kanan,kabupaten
+112,234000,Bandar Lampung,Metro,kota
+113,344000,Bengkulu,Bengkulu Selatan,kabupaten
+114,232000,Bengkulu,Bengkulu Tengah,kabupaten
+115,313000,Bengkulu,Bengkulu Utara,kabupaten
+116,385000,Bengkulu,Kaur,kabupaten
+117,298000,Bengkulu,Kepahiang,kabupaten
+118,375000,Bengkulu,Lebong,kabupaten
+119,423000,Bengkulu,Mukomuko,kabupaten
+120,313000,Bengkulu,Rejang Lebong,kabupaten
+121,282000,Bengkulu,Seluma,kabupaten
+122,250000,Pangkalpinang,Bangka,kabupaten
+123,275000,Pangkalpinang,Bangka Barat,kabupaten
+124,275000,Pangkalpinang,Bangka Selatan,kabupaten
+125,250000,Pangkalpinang,Bangka Tengah,kabupaten
+126,208000,Serang,Lebak,kabupaten
+127,138000,Serang,Pandeglang,kabupaten
+128,254000,Serang,Tangerang,kabupaten
+129,93000,Serang,Cilegon,kota
+130,313000,Serang,Tangerang,kota
+131,347000,Serang,Tangerang Selatan,kota
+132,183000,Bandung,Bandung,kabupaten
+133,275000,Bandung,Bandung Barat,kabupaten
+134,245000,Bandung,Ciamis,kabupaten
+135,215000,Bandung,Cianjur,kabupaten
+136,243000,Bandung,Garut,kabupaten
+137,275000,Bandung,Indramayu,kabupaten
+138,248000,Bandung,Karawang,kabupaten
+139,275000,Bandung,Kuningan,kabupaten
+140,235000,Bandung,Majalengka,kabupaten
+141,283000,Bandung,Pangadaran,kabupaten
+142,218000,Bandung,Purwakarta,kabupaten
+143,208000,Bandung,Subang,kabupaten
+144,245000,Bandung,Sukabumi,kabupaten
+145,230000,Bandung,Sumedang,kabupaten
+146,245000,Bandung,Tasikmalaya,kabupaten
+147,283000,Bandung,Banjar,kota
+148,265000,Bandung,Bekasi,kota
+149,285000,Bandung,Bogor,kota
+150,168000,Bandung,Cimahi,kota
+151,270000,Bandung,Cirebon,kota
+152,275000,Bandung,Depok,kota
+153,226000,Bandung,Sukabumi,kota
+154,260000,Semarang,Banjarnegara,kabupaten
+155,257000,Semarang,Banyumas,kabupaten
+156,240000,Semarang,Batang,kabupaten
+157,270000,Semarang,Blora,kabupaten
+158,240000,Semarang,Boyolali,kabupaten
+159,263000,Semarang,Brebes,kabupaten
+160,280000,Semarang,Cilacap,kabupaten
+161,230000,Semarang,Demak,kabupaten
+162,235000,Semarang,Grobogan,kabupaten
+163,240000,Semarang,Jepara,kabupaten
+164,250000,Semarang,Karanganyar,kabupaten
+165,260000,Semarang,Kebumen,kabupaten
+166,230000,Semarang,Kendal,kabupaten
+167,250000,Semarang,Klaten,kabupaten
+168,235000,Semarang,Kudus,kabupaten
+169,240000,Semarang,Magelang,kabupaten
+170,240000,Semarang,Pati,kabupaten
+171,245000,Semarang,Pekalongan,kabupaten
+172,250000,Semarang,Pemalang,kabupaten
+173,270000,Semarang,Purbalingga,kabupaten
+174,250000,Semarang,Purworejo,kabupaten
+175,250000,Semarang,Rembang,kabupaten
+176,230000,Semarang,Semarang,kabupaten
+177,250000,Semarang,Sragen,kabupaten
+178,250000,Semarang,Sukoharjo,kabupaten
+179,260000,Semarang,Tegal,kabupaten
+180,240000,Semarang,Temanggung,kabupaten
+181,250000,Semarang,Wonogiri,kabupaten
+182,250000,Semarang,Wonosobo,kabupaten
+183,240000,Semarang,Magelang,kota
+184,245000,Semarang,Pekalongan,kota
+185,235000,Semarang,Salatiga,kota
+186,245000,Semarang,Surakarta,kota
+187,260000,Semarang,Tegal,kota
+188,250000,Yogyakarta,Bantul,kabupaten
+189,350000,Yogyakarta,Gunung Kidul,kabupaten
+190,350000,Yogyakarta,Kulonprogo,kabupaten
+191,200000,Yogyakarta,Sleman,kabupaten
+192,225000,Surabaya,Bangkalan,kabupaten
+193,285000,Surabaya,Banyuwangi,kabupaten
+194,255000,Surabaya,Bondowoso,kabupaten
+195,225000,Surabaya,Gresik,kabupaten
+196,261000,Surabaya,Jember,kabupaten
+197,235000,Surabaya,Jombang,kabupaten
+198,225000,Surabaya,Lamongan,kabupaten
+199,261000,Surabaya,Lumajang,kabupaten
+200,253000,Surabaya,Magetan,kabupaten
+201,245000,Surabaya,Nganjuk,kabupaten
+202,253000,Surabaya,Ngawi,kabupaten
+203,285000,Surabaya,Pacitan,kabupaten
+204,243000,Surabaya,Pamekasan,kabupaten
+205,228000,Surabaya,Pasuruan,kabupaten
+206,255000,Surabaya,Ponorogo,kabupaten
+207,235000,Surabaya,Sampang,kabupaten
+208,240000,Surabaya,Sidoarjo,kabupaten
+209,255000,Surabaya,Situbondo,kabupaten
+210,255000,Surabaya,Sumenep,kabupaten
+211,245000,Surabaya,Trenggalek,kabupaten
+212,245000,Surabaya,Tuban,kabupaten
+213,245000,Surabaya,Tulungagung,kabupaten
+214,242000,Surabaya,Batu,kota
+215,255000,Surabaya,Blitar,kota
+216,225000,Surabaya,Bojonegoro,kota
+217,235000,Surabaya,Kediri,kota
+218,245000,Surabaya,Madiun,kota
+219,228000,Surabaya,Malang,kota
+220,225000,Surabaya,Mojokerto,kota
+221,228000,Surabaya,Probolinggo,kota
+222,188000,Denpasar,Badung,kabupaten
+223,225000,Denpasar,Bangli,kabupaten
+224,265000,Denpasar,Buleleng,kabupaten
+225,225000,Denpasar,Gianyar,kabupaten
+226,270000,Denpasar,Jembrana,kabupaten
+227,263000,Denpasar,Karangasem,kabupaten
+228,225000,Denpasar,Tabanan,kabupaten
+229,325000,Mataram,Lombok Barat,kabupaten
+230,450000,Mataram,Lombok Tengah,kabupaten
+231,350000,Mataram,Lombok Timur,kabupaten
+232,325000,Kupang,Belu,kabupaten
+233,175000,Kupang,Kupang,kabupaten
+234,218000,Kupang,Timor Tengah Selatan,kabupaten
+235,275000,Kupang,Timor Tengah Utara,kabupaten
+236,270000,Pontianak,Bengkayang,kabupaten
+237,550000,Pontianak,Kapuas Hulu,kabupaten
+238,550000,Pontianak,Kayong Utara,kabupaten
+239,550000,Pontianak,Ketapang,kabupaten
+240,185000,Pontianak,Kubu Raya,kabupaten
+241,270000,Pontianak,Landak,kabupaten
+242,430000,Pontianak,Melawi,kabupaten
+243,230000,Pontianak,Mempawah,kabupaten
+244,300000,Pontianak,Sambas,kabupaten
+245,303000,Pontianak,Sanggau,kabupaten
+246,343000,Pontianak,Sekadau,kabupaten
+247,392000,Pontianak,Sintang,kabupaten
+248,257000,Pontianak,Singkawang,kota
+249,290000,Palangkaraya,Barito Selatan,kabupaten
+250,333000,Palangkaraya,Barito Timur,kabupaten
+251,425000,Palangkaraya,Barito Utara,kabupaten
+252,300000,Palangkaraya,Gunung Mas,kabupaten
+253,275000,Palangkaraya,Kapuas,kabupaten
+254,250000,Palangkaraya,Katingan,kabupaten
+255,425000,Palangkaraya,Kotawaringin Barat,kabupaten
+256,300000,Palangkaraya,Kotawaringin Timur,kabupaten
+257,525000,Palangkaraya,Lamandau,kabupaten
+258,448000,Palangkaraya,Murung Raya,kabupaten
+259,250000,Palangkaraya,Pulau Pisau,kabupaten
+260,328000,Palangkaraya,Seruyan,kabupaten
+261,525000,Palangkaraya,Sukamara,kabupaten
+262,230000,Banjarmasin,Balangan,kabupaten
+263,170000,Banjarmasin,Banjar,kabupaten
+264,200000,Banjarmasin,Barito Kuala,kabupaten
+265,200000,Banjarmasin,Hulu Sungai Selatan,kabupaten
+266,212000,Banjarmasin,Hulu Sungai Tengah,kabupaten
+267,218000,Banjarmasin,Hulu Sungai Utara,kabupaten
+268,290000,Banjarmasin,kota,kabupaten
+269,234000,Banjarmasin,Tabalong,kabupaten
+270,300000,Banjarmasin,Tanah Bumbu,kabupaten
+271,200000,Banjarmasin,Tanah Laut,kabupaten
+272,189000,Banjarmasin,Tapin,kabupaten
+273,225000,Banjarmasin,Banjarbaru,kota
+274,1500000,Samarinda,Kutai Barat,kabupaten
+275,500000,Samarinda,Kutai Kartanegara,kabupaten
+276,1350000,Samarinda,Kutai Timur,kabupaten
+277,1650000,Samarinda,Paser,kabupaten
+278,650000,Samarinda,Penajam Paser Utara,kabupaten
+279,550000,Samarinda,Balikpapan,kota
+280,600000,Samarinda,Bontang,kota
+281,250000,Manado,Bolaang Mongondow,kabupaten
+282,275000,Manado,Bolaang Mongondow Selatan,kabupaten
+283,250000,Manado,Bolaang Mongondow Timur,kabupaten
+284,300000,Manado,Bolaang Mongondow Utara,kabupaten
+285,180000,Manado,Minahasa,kabupaten
+286,180000,Manado,Minahasa Selatan,kabupaten
+287,200000,Manado,Minahasa Tenggara,kabupaten
+288,175000,Manado,Minahasa Utara,kabupaten
+289,250000,Manado,Kotamobagu,kota
+290,170000,Manado,Tomohon,kota
+291,400000,Gorontalo,Boalemo,kabupaten
+292,300000,Gorontalo,Gorontalo,kabupaten
+293,350000,Gorontalo,Gorontalo Utara,kabupaten
+294,650000,Gorontalo,Pahuwato,kabupaten
+295,240000,Mamuju,Majene,kabupaten
+296,359000,Mamuju,Mamasa,kabupaten
+297,200000,Mamuju,Mamuju Tengah,kabupaten
+298,270000,Mamuju,Mamuju utara,kabupaten
+299,260000,Mamuju,Polewali Mandar,kabupaten
+300,235000,Makassar,Bantaeng,kabupaten
+301,210000,Makassar,Barru,kabupaten
+302,240000,Makassar,Bone,kabupaten
+303,240000,Makassar,Bulukumba,kabupaten
+304,250000,Makassar,Enrekang,kabupaten
+305,175000,Makassar,Gowa,kabupaten
+306,230000,Makassar,Jeneponto,kabupaten
+307,350000,Makassar,Luwu,kabupaten
+308,375000,Makassar,Luwu Timur,kabupaten
+309,365000,Makassar,Luwu Utara,kabupaten
+310,170000,Makassar,Maros,kabupaten
+311,230000,Makassar,Pinrang,kabupaten
+312,230000,Makassar,Sidenreng Rappang,kabupaten
+313,235000,Makassar,Sinjai,kabupaten
+314,235000,Makassar,Soppeng,kabupaten
+315,190000,Makassar,Takalar,kabupaten
+316,350000,Makassar,Tanatoraja,kabupaten
+317,350000,Makassar,Toraja Utara,kabupaten
+318,230000,Makassar,Wajo,kabupaten
+319,350000,Makassar,Palopo,kota
+320,225000,Makassar,Pare,kota
+321,472000,Palu,Buol,kabupaten
+322,400000,Palu,Luwuk,kabupaten
+323,400000,Palu,Morowali,kabupaten
+324,400000,Palu,Morowali Utara,kabupaten
+325,250000,Palu,Parigi Moutong,kabupaten
+326,280000,Palu,Poso,kabupaten
+327,219000,Palu,Sigi,kabupaten
+328,350000,Palu,Tojouna,kabupaten
+329,412000,Palu,Toli,kabupaten
+330,355000,Kendari,Bombana,kabupaten
+331,370000,Kendari,Kolaka,kabupaten
+332,300000,Kendari,Kolaka Timur,kabupaten
+333,425000,Kendari,Kolaka Utara,kabupaten
+334,300000,Kendari,Konawe,kabupaten
+335,305000,Kendari,Konawe Selatan,kabupaten
+336,300000,Kendari,Konawe Utara,kabupaten
+337,850000,Sofifi,Halmahera Barat,kabupaten
+338,1000000,Sofifi,Halmahera Tengah,kabupaten
+339,1250000,Sofifi,Halmahera Timur,kabupaten
+340,900000,Sofifi,Halmahera Utara,kabupaten
+341,600000,Jayapura,Jayapura,kabupaten
+342,900000,Jayapura,Keerom,kabupaten
+343,2700000,Jayapura,Sarmi,kabupaten
+344,1134000,Jayapura,Merauke,kabupaten
+345,900000,Manokwari,Teluk Bintuni,kabupaten
+346,750000,Manokwari,Manokwari Selatan,kabupaten
+347,2650000,Manokwari,Pegunungan Arfak,kabupaten

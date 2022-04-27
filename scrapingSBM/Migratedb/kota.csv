@@ -1,0 +1,573 @@
+id,nama_kota,is_kota,id_provinsi
+0,aceh,2,0
+1,aceh barat,2,0
+2,aceh barat daya,2,0
+3,aceh besar,2,0
+4,aceh jaya,2,0
+5,aceh selatan,2,0
+6,aceh singkil,2,0
+7,aceh tamiang,2,0
+8,aceh tengah,2,0
+9,aceh tenggara,2,0
+10,aceh timur,2,0
+11,aceh utara,2,0
+12,banda aceh,1,0
+13,bener meriah,2,0
+14,bireuen,2,0
+15,gayo lues,2,0
+16,langsa,1,0
+17,lhoksumawe,1,0
+18,nagan raya,2,0
+19,pidie,2,0
+20,pidie jaya,2,0
+21,sabang,1,0
+22,simeulue,2,0
+23,subulussalam,1,0
+24,badung,2,1
+25,bali,2,1
+26,bangli,2,1
+27,buleleng,2,1
+28,denpasar,1,1
+29,gianyar,2,1
+30,jembrana,2,1
+31,karangasem,2,1
+32,klungkung,2,1
+33,tabanan,2,1
+34,banten,2,2
+35,cilegon,1,2
+36,lebak,2,2
+37,pandeglang,2,2
+38,serang,1,2
+39,serang,2,2
+40,tangerang,1,2
+41,tangerang,2,2
+42,tangerang selatan,1,2
+43,bengkulu,1,3
+44,bengkulu,2,3
+45,bengkulu selatan,2,3
+46,bengkulu tengah,2,3
+47,bengkulu utara,2,3
+48,kaur,2,3
+49,kepahiang,2,3
+50,lebong,2,3
+51,mukomuko,2,3
+52,rejang lebong,2,3
+53,seluma,2,3
+54,boalemo,2,4
+55,bone bolango,2,4
+56,gorontalo,1,4
+57,gorontalo,2,4
+58,gorontalo utara,2,4
+59,pohuwato,2,4
+60,jakarta,2,5
+61,jakarta barat,1,5
+62,jakarta pusat,1,5
+63,jakarta selatan,1,5
+64,jakarta timur,1,5
+65,jakarta utara,1,5
+66,kepulauan seribu,2,5
+67,batanghari,2,6
+68,bungo,2,6
+69,jambi,1,6
+70,jambi,2,6
+71,kerinci,2,6
+72,merangin,2,6
+73,muaro jambi,2,6
+74,sarolangun,2,6
+75,sungai penuh,1,6
+76,tanjung jabung barat,2,6
+77,tanjung jabung timur,2,6
+78,tebo,2,6
+79,bandung,1,7
+80,bandung,2,7
+81,bandung barat,2,7
+82,banjar jawa barat,1,7
+83,bekasi,1,7
+84,bekasi,2,7
+85,bogor,1,7
+86,bogor,2,7
+87,ciamis,2,7
+88,cianjur,2,7
+89,cimahi,1,7
+90,cirebon,1,7
+91,cirebon,2,7
+92,depok,1,7
+93,garut,2,7
+94,indramayu,2,7
+95,jawa barat,2,7
+96,karawang,2,7
+97,kuningan,2,7
+98,majalengka,2,7
+99,pangandaran,2,7
+100,purwakarta,2,7
+101,subang,2,7
+102,sukabumi,1,7
+103,sukabumi,2,7
+104,sumedang,2,7
+105,tasikmalaya,1,7
+106,tasikmalaya,2,7
+107,banjarnegara,2,8
+108,banyumas,2,8
+109,batang,2,8
+110,blora,2,8
+111,boyolali,2,8
+112,brebes,2,8
+113,cilacap,2,8
+114,demak,2,8
+115,grobogan,2,8
+116,jawa tengah,2,8
+117,jawa tengah 1,2,8
+118,jawa tengah 2,2,8
+119,jepara,2,8
+120,karanganyar,2,8
+121,kebumen,2,8
+122,kendal,2,8
+123,klaten,2,8
+124,kudus,2,8
+125,magelang,1,8
+126,magelang,2,8
+127,pati,2,8
+128,pekalongan,1,8
+129,pekalongan,2,8
+130,pemalang,2,8
+131,purbalingga,2,8
+132,purwokerto,2,8
+133,purworejo,2,8
+134,rembang,2,8
+135,salatiga,1,8
+136,semarang,1,8
+137,semarang,2,8
+138,solo,1,8
+139,sragen,2,8
+140,sukoharjo,2,8
+141,surakarta,1,8
+142,tegal,1,8
+143,tegal,2,8
+144,temanggung,2,8
+145,wonogiri,2,8
+146,wonosobo,2,8
+147,bangkalan,2,9
+148,banyuwangi,2,9
+149,batu,1,9
+150,blitar,1,9
+151,blitar,2,9
+152,bojonegoro,2,9
+153,bondowoso,2,9
+154,gresik,2,9
+155,jawa timur,2,9
+156,jember,2,9
+157,jombang,2,9
+158,kediri,1,9
+159,kediri,2,9
+160,lamongan,2,9
+161,lumajang,2,9
+162,madiun,1,9
+163,madiun,2,9
+164,magetan,2,9
+165,malang,1,9
+166,malang,2,9
+167,mojokerto,1,9
+168,mojokerto,2,9
+169,nganjuk,2,9
+170,ngawi,2,9
+171,pacitan,2,9
+172,pamekasan,2,9
+173,pasuruan,1,9
+174,pasuruan,2,9
+175,ponorogo,2,9
+176,probolinggo,1,9
+177,probolinggo,2,9
+178,sampang,2,9
+179,sidoarjo,2,9
+180,situbondo,2,9
+181,sumenep,2,9
+182,surabaya,1,9
+183,trenggalek,2,9
+184,tuban,2,9
+185,tulungagung,2,9
+186,bengkayang,2,10
+187,kalimantan barat,2,10
+188,kapuas hulu,2,10
+189,kayong utara,2,10
+190,ketapang,2,10
+191,kubu raya,2,10
+192,landak,2,10
+193,melawi,2,10
+194,mempawah,2,10
+195,pontianak,1,10
+196,sambas,2,10
+197,sanggau,2,10
+198,sekadau,2,10
+199,singkawang,1,10
+200,sintang,2,10
+201,balangan,2,11
+202,banjar,2,11
+203,banjarbaru,1,11
+204,banjarmasin,1,11
+205,barito kuala,2,11
+206,hulu sungai selatan,2,11
+207,hulu sungai tengah,2,11
+208,hulu sungai utara,2,11
+209,kalimantan selatan,2,11
+210,kota baru,2,11
+211,tabalong,2,11
+212,tanah bumbu,2,11
+213,tanah laut,2,11
+214,tapin,2,11
+215,barito selatan,2,12
+216,barito timur,2,12
+217,barito utara,2,12
+218,gunung mas,2,12
+219,kalimantan tengah,2,12
+220,kapuas,2,12
+221,katingan,2,12
+222,kotawaringin barat,2,12
+223,kotawaringin timur,2,12
+224,lamandau,2,12
+225,murung raya,2,12
+226,palangka raya,1,12
+227,palangkaraya,1,12
+228,pulang pisau,2,12
+229,seruyan,2,12
+230,sukamara,2,12
+231,balikpapan,1,13
+232,berau,2,13
+233,bontang,1,13
+234,kalimantan timur,2,13
+235,kutai barat,2,13
+236,kutai kartanegara,2,13
+237,kutai timur,2,13
+238,mahakam ulu,2,13
+239,paser,2,13
+240,penajam paser utara,2,13
+241,samarinda,1,13
+242,bulungan,2,14
+243,kalimantan utara,2,14
+244,malinau,2,14
+245,nunukan,2,14
+246,tana tidung,2,14
+247,tarakan,1,14
+248,bangka,2,15
+249,bangka barat,2,15
+250,bangka belitung,2,15
+251,bangka selatan,2,15
+252,bangka tengah,2,15
+253,belitung,2,15
+254,belitung timur,2,15
+255,kepulauan bangka belitung,2,15
+256,pangkal pinang,1,15
+257,batam,1,16
+258,bintan,2,16
+259,karimun,2,16
+260,kepulauan anambas,2,16
+261,kepulauan riau,2,16
+262,lingga,2,16
+263,natuna,2,16
+264,tanjung pinang,1,16
+265,bandar lampung,1,17
+266,lampung,2,17
+267,lampung barat,2,17
+268,lampung selatan,2,17
+269,lampung tengah,2,17
+270,lampung timur,2,17
+271,lampung utara,2,17
+272,mesuji,2,17
+273,metro,1,17
+274,pesawaran,2,17
+275,pesisir barat,2,17
+276,pringsewu,2,17
+277,tanggamus,2,17
+278,tulang bawang,2,17
+279,tulang bawang barat,2,17
+280,way kanan,2,17
+281,ambon,1,18
+282,buru,2,18
+283,buru selatan,2,18
+284,kepulauan aru,2,18
+285,kepulauan tanimbar,2,18
+286,maluku,2,18
+287,maluku barat daya,2,18
+288,maluku tengah,2,18
+289,maluku tenggara,2,18
+290,seram bagian barat,2,18
+291,seram bagian timur,2,18
+292,tual,1,18
+293,halmahera barat,2,19
+294,halmahera selatan,2,19
+295,halmahera tengah,2,19
+296,halmahera timur,2,19
+297,halmahera utara,2,19
+298,kepulauan sula,2,19
+299,maluku utara,2,19
+300,pulau morotai,2,19
+301,pulau taliabu,2,19
+302,sofifi,2,19
+303,ternate,1,19
+304,tidore kepulauan,1,19
+305,bima,1,20
+306,bima,2,20
+307,dompu,2,20
+308,lombok,2,20
+309,lombok barat,2,20
+310,lombok tengah,2,20
+311,lombok timur,2,20
+312,lombok utara,2,20
+313,mataram,1,20
+314,ntb,2,20
+315,nusa tenggara barat,2,20
+316,sumbawa,2,20
+317,sumbawa barat,2,20
+318,alor,2,21
+319,belu,2,21
+320,ende,2,21
+321,flores timur,2,21
+322,kupang,1,21
+323,kupang,2,21
+324,lembata,2,21
+325,malaka,2,21
+326,manggarai,2,21
+327,manggarai barat,2,21
+328,manggarai timur,2,21
+329,nagekeo,2,21
+330,ngada,2,21
+331,ntt,2,21
+332,nusa tenggara timur,2,21
+333,rote ndao,2,21
+334,sabu raijua,2,21
+335,sikka,2,21
+336,sumba barat,2,21
+337,sumba barat daya,2,21
+338,sumba tengah,2,21
+339,sumba timur,2,21
+340,timor tengah selatan,2,21
+341,timor tengah utara,2,21
+342,asmat,2,22
+343,biak,2,22
+344,biak numfor,2,22
+345,boven digoel,2,22
+346,deiyai,2,22
+347,dogiyai,2,22
+348,intan jaya,2,22
+349,jayapura,1,22
+350,jayapura,2,22
+351,jayawijaya,2,22
+352,keerom,2,22
+353,kepulauan yapen,2,22
+354,lanny jaya,2,22
+355,mamberamo raya,2,22
+356,mamberamo tengah,2,22
+357,mappi,2,22
+358,merauke,2,22
+359,mimika,2,22
+360,nabire,2,22
+361,nduga,2,22
+362,paniai,2,22
+363,papua,2,22
+364,pegunungan bintang,2,22
+365,puncak,2,22
+366,puncak jaya,2,22
+367,sarmi,2,22
+368,supiori,2,22
+369,timika,1,22
+370,tolikara,2,22
+371,waropen,2,22
+372,yahukimo,2,22
+373,yalimo,2,22
+374,fakfak,2,23
+375,kaimana,2,23
+376,manokwari,2,23
+377,manokwari selatan,2,23
+378,maybrat,2,23
+379,papua barat,2,23
+380,pegunungan arfak,2,23
+381,raja ampat,2,23
+382,sorong,1,23
+383,sorong,2,23
+384,sorong selatan,2,23
+385,tambrauw,2,23
+386,teluk bintuni,2,23
+387,teluk wondama,2,23
+388,bengkalis,2,24
+389,dumai,1,24
+390,indragiri hilir,2,24
+391,indragiri hulu,2,24
+392,kampar,2,24
+393,kepulauan meranti,2,24
+394,kuantan singingi,2,24
+395,pekanbaru,1,24
+396,pelalawan,2,24
+397,riau,2,24
+398,rokan hilir,2,24
+399,rokan hulu,2,24
+400,siak,2,24
+401,majene,2,25
+402,mamasa,2,25
+403,mamuju,2,25
+404,mamuju tengah,2,25
+405,mamuju utara,2,25
+406,pasangkayu,2,25
+407,polewali mandar,2,25
+408,sulawesi barat,2,25
+409,bantaeng,2,26
+410,barru,2,26
+411,bone,2,26
+412,bulukumba,2,26
+413,enrekang,2,26
+414,gowa,2,26
+415,jeneponto,2,26
+416,kepulauan selayar,2,26
+417,luwu,2,26
+418,luwu timur,2,26
+419,luwu utara,2,26
+420,makassar,1,26
+421,maros,2,26
+422,palopo,1,26
+423,pangkajene dan kepulauan,2,26
+424,pare pare,1,26
+425,parepare,1,26
+426,pinrang,2,26
+427,sidenreng rappang,2,26
+428,sinjai,2,26
+429,soppeng,2,26
+430,sulawesi selatan,2,26
+431,takalar,2,26
+432,tana toraja,2,26
+433,tanatoraja,2,26
+434,toraja utara,2,26
+435,wajo,2,26
+436,banggai,2,27
+437,banggai kepulauan,2,27
+438,banggai laut,2,27
+439,buol,2,27
+440,donggala,2,27
+441,luwuk,2,27
+442,morowali,2,27
+443,morowali utara,2,27
+444,palu,1,27
+445,parigi moutong,2,27
+446,poso,2,27
+447,sigi,2,27
+448,sulawesi tengah,2,27
+449,tojo una una,2,27
+450,toli toli,2,27
+451,toli toli,2,27
+452,bau bau,1,28
+453,bau bau,1,28
+454,bombana,2,28
+455,buton,2,28
+456,buton selatan,2,28
+457,buton tengah,2,28
+458,buton utara,2,28
+459,kendari,1,28
+460,kolaka,2,28
+461,kolaka timur,2,28
+462,kolaka utara,2,28
+463,konawe,2,28
+464,konawe kepulauan,2,28
+465,konawe selatan,2,28
+466,konawe utara,2,28
+467,muna,2,28
+468,muna barat,2,28
+469,sulawesi tenggara,2,28
+470,wakatobi,2,28
+471,bitung,1,29
+472,bolaang mongondow,2,29
+473,bolaang mongondow selatan,2,29
+474,bolaang mongondow timur,2,29
+475,bolaang mongondow utara,2,29
+476,kepulauan sangihe,2,29
+477,kepulauan siau tagulandang biaro,2,29
+478,kepulauan talaud,2,29
+479,kotamobagu,1,29
+480,manado,1,29
+481,minahasa,2,29
+482,minahasa selatan,2,29
+483,minahasa tenggara,2,29
+484,minahasa utara,2,29
+485,sulawesi utara,2,29
+486,tomohon,1,29
+487,agam,2,30
+488,bukit tinggi,1,30
+489,dharmasraya,2,30
+490,kepulauan mentawai,2,30
+491,lima puluh kota,2,30
+492,minang kabau,2,30
+493,minangkabau,2,30
+494,padang,1,30
+495,padang panjang,1,30
+496,padang pariaman,2,30
+497,pariaman,1,30
+498,pasaman,2,30
+499,pasaman barat,2,30
+500,payakumbuh,1,30
+501,pesisir selatan,2,30
+502,sawahlunto,1,30
+503,sijunjung,2,30
+504,solok,1,30
+505,solok,2,30
+506,solok selatan,2,30
+507,sumatera barat,2,30
+508,tanah datar,2,30
+509,banyuasin,2,31
+510,empat lawang,2,31
+511,lahat,2,31
+512,lubuk linggau,1,31
+513,muara enim,2,31
+514,musi banyuasin,2,31
+515,musi rawas,2,31
+516,musi rawas utara,2,31
+517,ogan ilir,2,31
+518,ogan komering ilir,2,31
+519,ogan komering ulu,2,31
+520,ogan komering ulu selatan,2,31
+521,ogan komering ulu timur,2,31
+522,pagar alam,1,31
+523,palembang,1,31
+524,pali,2,31
+525,penukal abab lematang ilir,2,31
+526,prabumulih,1,31
+527,sumatera selatan,2,31
+528,asahan,2,32
+529,batu bara,2,32
+530,batubara,2,32
+531,binjai,1,32
+532,dairi,2,32
+533,deli serdang,2,32
+534,gunungsitoli,1,32
+535,humbang hasundutan,2,32
+536,karo,2,32
+537,labuhan batu,2,32
+538,labuhan batu selatan,2,32
+539,labuhan batu utara,2,32
+540,labuhanbatu,2,32
+541,labuhanbatu selatan,2,32
+542,labuhanbatu utara,2,32
+543,langkat,2,32
+544,mandailing natal,2,32
+545,medan,1,32
+546,nias,2,32
+547,nias barat,2,32
+548,nias selatan,2,32
+549,nias utara,2,32
+550,padang lawas,2,32
+551,padang lawas utara,2,32
+552,padangsidempuan,1,32
+553,pakpak bharat,2,32
+554,pematang siantar,1,32
+555,samosir,2,32
+556,serdang bedagai,2,32
+557,sibolga,1,32
+558,simalungun,2,32
+559,sumatera utara,2,32
+560,tanjung balai,1,32
+561,tapanuli selatan,2,32
+562,tapanuli tengah,2,32
+563,tapanuli utara,2,32
+564,tebing tinggi,1,32
+565,toba samosir,2,32
+566,bantul,2,33
+567,gunung kidul,2,33
+568,kulon progo,2,33
+569,sleman,2,33
+570,yogyakarta,1,33
+571,yogyakarta,2,33

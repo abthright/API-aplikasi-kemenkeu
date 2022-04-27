@@ -146,8 +146,6 @@ def create_df(name,table_size,column_names):
         df[['kota_kabupaten','kota_tujuan','hapus']] = df.kota_tujuan.str.replace('Kab. ','kabupaten,').str.replace('Kota ','kota,').str.split(',',expand=True)
         #[[[[[[kemarin]]]]]] ini malah program tetep jalan tapi value error, udh di save excel nya
       except ValueError : print(df.kota_tujuan.str.replace('Kab. ','kabupaten,').str.replace('Kota ','kota,').str.split(',',expand=True).head(5))
-
-    print(df.columns)
     
     df.replace({
       'R I A U' : 'RIAU',
@@ -189,5 +187,18 @@ for name,url_requested in login.items():
   table = soup.find_all('table')[0]
 
   df = parse_html_table(name,table=table)
-  df.to_excel(get_html_table_name(table).strip().replace('/',' atau ').replace('\n',' ')+".xlsx")
+  naming = {
+  'HONORARIUM NARASUMBER atau MODERATOR atau PEMBAWA ACARA atau PANITIA' : 'excel_narsum', 
+  'SATUAN BIAYA PENGINAPAN PERJALANAN DINAS DALAM NEGERI' : 'excel_penginapan',
+  'SATUAN BIAYA RAPAT atau PERTEMUAN DI LUAR KANTOR FULLDAY atau HALFDAY  DI DALAM KOTA' : 'excel_rapat_lk', 
+  'SATUAN BIAYA TAKSI PERJALANAN DINAS DALAM NEGERI' : 'excel_taksi', 
+  'SATUAN BIAYA TIKET PESAWAT PERJALANAN DINAS DALAM NEGERI' : 'excel_tiket_pesawat', 
+  'SATUAN BIAYA TRANSPORTASI DARAT DARI IBUKOTA PROVINSI KE KOTA atau  KABUPATEN DALAM PROVINSI YANG SAMA' : 'excel_transport_darat', 
+  'SATUAN BIAYA TRANSPORTASI DARI DKI JAKARTA KE KOTA atau KABUPATEN SEKITAR': 'excel_transport_lokal', 
+  'SATUAN BIAYA UANG HARIAN PERJALANAN DINAS DALAM NEGERI DAN UANG REPRESENTASI' : 'excel_uang_harian', 
+  'SATUAN BIAYA UANG TRANSPOR KEGIATAN DALAM KABUPATEN atau KOTA PERGI PULANG  (PP)' : 'excel_transport_darat_kabupaten'}
+  name = get_html_table_name(table).strip().replace('/',' atau ').replace('\n',' ')
+  # df.to_excel(naming[name]+".xlsx")
+  df.to_csv(naming[name]+".csv", sep=',')
+
 
