@@ -1,0 +1,573 @@
+id;nama_kota;is_kota;id_provinsi
+0;aceh;TRUE;0
+1;aceh barat;TRUE;0
+2;aceh barat daya;TRUE;0
+3;aceh besar;TRUE;0
+4;aceh jaya;TRUE;0
+5;aceh selatan;TRUE;0
+6;aceh singkil;TRUE;0
+7;aceh tamiang;TRUE;0
+8;aceh tengah;TRUE;0
+9;aceh tenggara;TRUE;0
+10;aceh timur;TRUE;0
+11;aceh utara;TRUE;0
+12;banda aceh;FALSE;0
+13;bener meriah;TRUE;0
+14;bireuen;TRUE;0
+15;gayo lues;TRUE;0
+16;langsa;FALSE;0
+17;lhoksumawe;FALSE;0
+18;nagan raya;TRUE;0
+19;pidie;TRUE;0
+20;pidie jaya;TRUE;0
+21;sabang;FALSE;0
+22;simeulue;TRUE;0
+23;subulussalam;FALSE;0
+24;badung;TRUE;1
+25;bali;TRUE;1
+26;bangli;TRUE;1
+27;buleleng;TRUE;1
+28;denpasar;FALSE;1
+29;gianyar;TRUE;1
+30;jembrana;TRUE;1
+31;karangasem;TRUE;1
+32;klungkung;TRUE;1
+33;tabanan;TRUE;1
+34;banten;TRUE;2
+35;cilegon;FALSE;2
+36;lebak;TRUE;2
+37;pandeglang;TRUE;2
+38;serang;FALSE;2
+39;serang;TRUE;2
+40;tangerang;FALSE;2
+41;tangerang;TRUE;2
+42;tangerang selatan;FALSE;2
+43;bengkulu;FALSE;3
+44;bengkulu;TRUE;3
+45;bengkulu selatan;TRUE;3
+46;bengkulu tengah;TRUE;3
+47;bengkulu utara;TRUE;3
+48;kaur;TRUE;3
+49;kepahiang;TRUE;3
+50;lebong;TRUE;3
+51;mukomuko;TRUE;3
+52;rejang lebong;TRUE;3
+53;seluma;TRUE;3
+54;boalemo;TRUE;4
+55;bone bolango;TRUE;4
+56;gorontalo;FALSE;4
+57;gorontalo;TRUE;4
+58;gorontalo utara;TRUE;4
+59;pohuwato;TRUE;4
+60;jakarta;TRUE;5
+61;jakarta barat;FALSE;5
+62;jakarta pusat;FALSE;5
+63;jakarta selatan;FALSE;5
+64;jakarta timur;FALSE;5
+65;jakarta utara;FALSE;5
+66;kepulauan seribu;TRUE;5
+67;batanghari;TRUE;6
+68;bungo;TRUE;6
+69;jambi;FALSE;6
+70;jambi;TRUE;6
+71;kerinci;TRUE;6
+72;merangin;TRUE;6
+73;muaro jambi;TRUE;6
+74;sarolangun;TRUE;6
+75;sungai penuh;FALSE;6
+76;tanjung jabung barat;TRUE;6
+77;tanjung jabung timur;TRUE;6
+78;tebo;TRUE;6
+79;bandung;FALSE;7
+80;bandung;TRUE;7
+81;bandung barat;TRUE;7
+82;banjar jawa barat;FALSE;7
+83;bekasi;FALSE;7
+84;bekasi;TRUE;7
+85;bogor;FALSE;7
+86;bogor;TRUE;7
+87;ciamis;TRUE;7
+88;cianjur;TRUE;7
+89;cimahi;FALSE;7
+90;cirebon;FALSE;7
+91;cirebon;TRUE;7
+92;depok;FALSE;7
+93;garut;TRUE;7
+94;indramayu;TRUE;7
+95;jawa barat;TRUE;7
+96;karawang;TRUE;7
+97;kuningan;TRUE;7
+98;majalengka;TRUE;7
+99;pangandaran;TRUE;7
+100;purwakarta;TRUE;7
+101;subang;TRUE;7
+102;sukabumi;FALSE;7
+103;sukabumi;TRUE;7
+104;sumedang;TRUE;7
+105;tasikmalaya;FALSE;7
+106;tasikmalaya;TRUE;7
+107;banjarnegara;TRUE;8
+108;banyumas;TRUE;8
+109;batang;TRUE;8
+110;blora;TRUE;8
+111;boyolali;TRUE;8
+112;brebes;TRUE;8
+113;cilacap;TRUE;8
+114;demak;TRUE;8
+115;grobogan;TRUE;8
+116;jawa tengah;TRUE;8
+117;jawa tengah 1;TRUE;8
+118;jawa tengah 2;TRUE;8
+119;jepara;TRUE;8
+120;karanganyar;TRUE;8
+121;kebumen;TRUE;8
+122;kendal;TRUE;8
+123;klaten;TRUE;8
+124;kudus;TRUE;8
+125;magelang;FALSE;8
+126;magelang;TRUE;8
+127;pati;TRUE;8
+128;pekalongan;FALSE;8
+129;pekalongan;TRUE;8
+130;pemalang;TRUE;8
+131;purbalingga;TRUE;8
+132;purwokerto;TRUE;8
+133;purworejo;TRUE;8
+134;rembang;TRUE;8
+135;salatiga;FALSE;8
+136;semarang;FALSE;8
+137;semarang;TRUE;8
+138;solo;FALSE;8
+139;sragen;TRUE;8
+140;sukoharjo;TRUE;8
+141;surakarta;FALSE;8
+142;tegal;FALSE;8
+143;tegal;TRUE;8
+144;temanggung;TRUE;8
+145;wonogiri;TRUE;8
+146;wonosobo;TRUE;8
+147;bangkalan;TRUE;9
+148;banyuwangi;TRUE;9
+149;batu;FALSE;9
+150;blitar;FALSE;9
+151;blitar;TRUE;9
+152;bojonegoro;TRUE;9
+153;bondowoso;TRUE;9
+154;gresik;TRUE;9
+155;jawa timur;TRUE;9
+156;jember;TRUE;9
+157;jombang;TRUE;9
+158;kediri;FALSE;9
+159;kediri;TRUE;9
+160;lamongan;TRUE;9
+161;lumajang;TRUE;9
+162;madiun;FALSE;9
+163;madiun;TRUE;9
+164;magetan;TRUE;9
+165;malang;FALSE;9
+166;malang;TRUE;9
+167;mojokerto;FALSE;9
+168;mojokerto;TRUE;9
+169;nganjuk;TRUE;9
+170;ngawi;TRUE;9
+171;pacitan;TRUE;9
+172;pamekasan;TRUE;9
+173;pasuruan;FALSE;9
+174;pasuruan;TRUE;9
+175;ponorogo;TRUE;9
+176;probolinggo;FALSE;9
+177;probolinggo;TRUE;9
+178;sampang;TRUE;9
+179;sidoarjo;TRUE;9
+180;situbondo;TRUE;9
+181;sumenep;TRUE;9
+182;surabaya;FALSE;9
+183;trenggalek;TRUE;9
+184;tuban;TRUE;9
+185;tulungagung;TRUE;9
+186;bengkayang;TRUE;10
+187;kalimantan barat;TRUE;10
+188;kapuas hulu;TRUE;10
+189;kayong utara;TRUE;10
+190;ketapang;TRUE;10
+191;kubu raya;TRUE;10
+192;landak;TRUE;10
+193;melawi;TRUE;10
+194;mempawah;TRUE;10
+195;pontianak;FALSE;10
+196;sambas;TRUE;10
+197;sanggau;TRUE;10
+198;sekadau;TRUE;10
+199;singkawang;FALSE;10
+200;sintang;TRUE;10
+201;balangan;TRUE;11
+202;banjar;TRUE;11
+203;banjarbaru;FALSE;11
+204;banjarmasin;FALSE;11
+205;barito kuala;TRUE;11
+206;hulu sungai selatan;TRUE;11
+207;hulu sungai tengah;TRUE;11
+208;hulu sungai utara;TRUE;11
+209;kalimantan selatan;TRUE;11
+210;kota baru;TRUE;11
+211;tabalong;TRUE;11
+212;tanah bumbu;TRUE;11
+213;tanah laut;TRUE;11
+214;tapin;TRUE;11
+215;barito selatan;TRUE;12
+216;barito timur;TRUE;12
+217;barito utara;TRUE;12
+218;gunung mas;TRUE;12
+219;kalimantan tengah;TRUE;12
+220;kapuas;TRUE;12
+221;katingan;TRUE;12
+222;kotawaringin barat;TRUE;12
+223;kotawaringin timur;TRUE;12
+224;lamandau;TRUE;12
+225;murung raya;TRUE;12
+226;palangka raya;FALSE;12
+227;palangkaraya;FALSE;12
+228;pulang pisau;TRUE;12
+229;seruyan;TRUE;12
+230;sukamara;TRUE;12
+231;balikpapan;FALSE;13
+232;berau;TRUE;13
+233;bontang;FALSE;13
+234;kalimantan timur;TRUE;13
+235;kutai barat;TRUE;13
+236;kutai kartanegara;TRUE;13
+237;kutai timur;TRUE;13
+238;mahakam ulu;TRUE;13
+239;paser;TRUE;13
+240;penajam paser utara;TRUE;13
+241;samarinda;FALSE;13
+242;bulungan;TRUE;14
+243;kalimantan utara;TRUE;14
+244;malinau;TRUE;14
+245;nunukan;TRUE;14
+246;tana tidung;TRUE;14
+247;tarakan;FALSE;14
+248;bangka;TRUE;15
+249;bangka barat;TRUE;15
+250;bangka belitung;TRUE;15
+251;bangka selatan;TRUE;15
+252;bangka tengah;TRUE;15
+253;belitung;TRUE;15
+254;belitung timur;TRUE;15
+255;kepulauan bangka belitung;TRUE;15
+256;pangkal pinang;FALSE;15
+257;batam;FALSE;16
+258;bintan;TRUE;16
+259;karimun;TRUE;16
+260;kepulauan anambas;TRUE;16
+261;kepulauan riau;TRUE;16
+262;lingga;TRUE;16
+263;natuna;TRUE;16
+264;tanjung pinang;FALSE;16
+265;bandar lampung;FALSE;17
+266;lampung;TRUE;17
+267;lampung barat;TRUE;17
+268;lampung selatan;TRUE;17
+269;lampung tengah;TRUE;17
+270;lampung timur;TRUE;17
+271;lampung utara;TRUE;17
+272;mesuji;TRUE;17
+273;metro;FALSE;17
+274;pesawaran;TRUE;17
+275;pesisir barat;TRUE;17
+276;pringsewu;TRUE;17
+277;tanggamus;TRUE;17
+278;tulang bawang;TRUE;17
+279;tulang bawang barat;TRUE;17
+280;way kanan;TRUE;17
+281;ambon;FALSE;18
+282;buru;TRUE;18
+283;buru selatan;TRUE;18
+284;kepulauan aru;TRUE;18
+285;kepulauan tanimbar;TRUE;18
+286;maluku;TRUE;18
+287;maluku barat daya;TRUE;18
+288;maluku tengah;TRUE;18
+289;maluku tenggara;TRUE;18
+290;seram bagian barat;TRUE;18
+291;seram bagian timur;TRUE;18
+292;tual;FALSE;18
+293;halmahera barat;TRUE;19
+294;halmahera selatan;TRUE;19
+295;halmahera tengah;TRUE;19
+296;halmahera timur;TRUE;19
+297;halmahera utara;TRUE;19
+298;kepulauan sula;TRUE;19
+299;maluku utara;TRUE;19
+300;pulau morotai;TRUE;19
+301;pulau taliabu;TRUE;19
+302;sofifi;TRUE;19
+303;ternate;FALSE;19
+304;tidore kepulauan;FALSE;19
+305;bima;FALSE;20
+306;bima;TRUE;20
+307;dompu;TRUE;20
+308;lombok;TRUE;20
+309;lombok barat;TRUE;20
+310;lombok tengah;TRUE;20
+311;lombok timur;TRUE;20
+312;lombok utara;TRUE;20
+313;mataram;FALSE;20
+314;ntb;TRUE;20
+315;nusa tenggara barat;TRUE;20
+316;sumbawa;TRUE;20
+317;sumbawa barat;TRUE;20
+318;alor;TRUE;21
+319;belu;TRUE;21
+320;ende;TRUE;21
+321;flores timur;TRUE;21
+322;kupang;FALSE;21
+323;kupang;TRUE;21
+324;lembata;TRUE;21
+325;malaka;TRUE;21
+326;manggarai;TRUE;21
+327;manggarai barat;TRUE;21
+328;manggarai timur;TRUE;21
+329;nagekeo;TRUE;21
+330;ngada;TRUE;21
+331;ntt;TRUE;21
+332;nusa tenggara timur;TRUE;21
+333;rote ndao;TRUE;21
+334;sabu raijua;TRUE;21
+335;sikka;TRUE;21
+336;sumba barat;TRUE;21
+337;sumba barat daya;TRUE;21
+338;sumba tengah;TRUE;21
+339;sumba timur;TRUE;21
+340;timor tengah selatan;TRUE;21
+341;timor tengah utara;TRUE;21
+342;asmat;TRUE;22
+343;biak;TRUE;22
+344;biak numfor;TRUE;22
+345;boven digoel;TRUE;22
+346;deiyai;TRUE;22
+347;dogiyai;TRUE;22
+348;intan jaya;TRUE;22
+349;jayapura;FALSE;22
+350;jayapura;TRUE;22
+351;jayawijaya;TRUE;22
+352;keerom;TRUE;22
+353;kepulauan yapen;TRUE;22
+354;lanny jaya;TRUE;22
+355;mamberamo raya;TRUE;22
+356;mamberamo tengah;TRUE;22
+357;mappi;TRUE;22
+358;merauke;TRUE;22
+359;mimika;TRUE;22
+360;nabire;TRUE;22
+361;nduga;TRUE;22
+362;paniai;TRUE;22
+363;papua;TRUE;22
+364;pegunungan bintang;TRUE;22
+365;puncak;TRUE;22
+366;puncak jaya;TRUE;22
+367;sarmi;TRUE;22
+368;supiori;TRUE;22
+369;timika;FALSE;22
+370;tolikara;TRUE;22
+371;waropen;TRUE;22
+372;yahukimo;TRUE;22
+373;yalimo;TRUE;22
+374;fakfak;TRUE;23
+375;kaimana;TRUE;23
+376;manokwari;TRUE;23
+377;manokwari selatan;TRUE;23
+378;maybrat;TRUE;23
+379;papua barat;TRUE;23
+380;pegunungan arfak;TRUE;23
+381;raja ampat;TRUE;23
+382;sorong;FALSE;23
+383;sorong;TRUE;23
+384;sorong selatan;TRUE;23
+385;tambrauw;TRUE;23
+386;teluk bintuni;TRUE;23
+387;teluk wondama;TRUE;23
+388;bengkalis;TRUE;24
+389;dumai;FALSE;24
+390;indragiri hilir;TRUE;24
+391;indragiri hulu;TRUE;24
+392;kampar;TRUE;24
+393;kepulauan meranti;TRUE;24
+394;kuantan singingi;TRUE;24
+395;pekanbaru;FALSE;24
+396;pelalawan;TRUE;24
+397;riau;TRUE;24
+398;rokan hilir;TRUE;24
+399;rokan hulu;TRUE;24
+400;siak;TRUE;24
+401;majene;TRUE;25
+402;mamasa;TRUE;25
+403;mamuju;TRUE;25
+404;mamuju tengah;TRUE;25
+405;mamuju utara;TRUE;25
+406;pasangkayu;TRUE;25
+407;polewali mandar;TRUE;25
+408;sulawesi barat;TRUE;25
+409;bantaeng;TRUE;26
+410;barru;TRUE;26
+411;bone;TRUE;26
+412;bulukumba;TRUE;26
+413;enrekang;TRUE;26
+414;gowa;TRUE;26
+415;jeneponto;TRUE;26
+416;kepulauan selayar;TRUE;26
+417;luwu;TRUE;26
+418;luwu timur;TRUE;26
+419;luwu utara;TRUE;26
+420;makassar;FALSE;26
+421;maros;TRUE;26
+422;palopo;FALSE;26
+423;pangkajene dan kepulauan;TRUE;26
+424;pare pare;FALSE;26
+425;parepare;FALSE;26
+426;pinrang;TRUE;26
+427;sidenreng rappang;TRUE;26
+428;sinjai;TRUE;26
+429;soppeng;TRUE;26
+430;sulawesi selatan;TRUE;26
+431;takalar;TRUE;26
+432;tana toraja;TRUE;26
+433;tanatoraja;TRUE;26
+434;toraja utara;TRUE;26
+435;wajo;TRUE;26
+436;banggai;TRUE;27
+437;banggai kepulauan;TRUE;27
+438;banggai laut;TRUE;27
+439;buol;TRUE;27
+440;donggala;TRUE;27
+441;luwuk;TRUE;27
+442;morowali;TRUE;27
+443;morowali utara;TRUE;27
+444;palu;FALSE;27
+445;parigi moutong;TRUE;27
+446;poso;TRUE;27
+447;sigi;TRUE;27
+448;sulawesi tengah;TRUE;27
+449;tojo una una;TRUE;27
+450;toli toli;TRUE;27
+451;toli toli;TRUE;27
+452;bau bau;FALSE;28
+453;bau bau;FALSE;28
+454;bombana;TRUE;28
+455;buton;TRUE;28
+456;buton selatan;TRUE;28
+457;buton tengah;TRUE;28
+458;buton utara;TRUE;28
+459;kendari;FALSE;28
+460;kolaka;TRUE;28
+461;kolaka timur;TRUE;28
+462;kolaka utara;TRUE;28
+463;konawe;TRUE;28
+464;konawe kepulauan;TRUE;28
+465;konawe selatan;TRUE;28
+466;konawe utara;TRUE;28
+467;muna;TRUE;28
+468;muna barat;TRUE;28
+469;sulawesi tenggara;TRUE;28
+470;wakatobi;TRUE;28
+471;bitung;FALSE;29
+472;bolaang mongondow;TRUE;29
+473;bolaang mongondow selatan;TRUE;29
+474;bolaang mongondow timur;TRUE;29
+475;bolaang mongondow utara;TRUE;29
+476;kepulauan sangihe;TRUE;29
+477;kepulauan siau tagulandang biaro;TRUE;29
+478;kepulauan talaud;TRUE;29
+479;kotamobagu;FALSE;29
+480;manado;FALSE;29
+481;minahasa;TRUE;29
+482;minahasa selatan;TRUE;29
+483;minahasa tenggara;TRUE;29
+484;minahasa utara;TRUE;29
+485;sulawesi utara;TRUE;29
+486;tomohon;FALSE;29
+487;agam;TRUE;30
+488;bukit tinggi;FALSE;30
+489;dharmasraya;TRUE;30
+490;kepulauan mentawai;TRUE;30
+491;lima puluh kota;TRUE;30
+492;minang kabau;TRUE;30
+493;minangkabau;TRUE;30
+494;padang;FALSE;30
+495;padang panjang;FALSE;30
+496;padang pariaman;TRUE;30
+497;pariaman;FALSE;30
+498;pasaman;TRUE;30
+499;pasaman barat;TRUE;30
+500;payakumbuh;FALSE;30
+501;pesisir selatan;TRUE;30
+502;sawahlunto;FALSE;30
+503;sijunjung;TRUE;30
+504;solok;FALSE;30
+505;solok;TRUE;30
+506;solok selatan;TRUE;30
+507;sumatera barat;TRUE;30
+508;tanah datar;TRUE;30
+509;banyuasin;TRUE;31
+510;empat lawang;TRUE;31
+511;lahat;TRUE;31
+512;lubuk linggau;FALSE;31
+513;muara enim;TRUE;31
+514;musi banyuasin;TRUE;31
+515;musi rawas;TRUE;31
+516;musi rawas utara;TRUE;31
+517;ogan ilir;TRUE;31
+518;ogan komering ilir;TRUE;31
+519;ogan komering ulu;TRUE;31
+520;ogan komering ulu selatan;TRUE;31
+521;ogan komering ulu timur;TRUE;31
+522;pagar alam;FALSE;31
+523;palembang;FALSE;31
+524;pali;TRUE;31
+525;penukal abab lematang ilir;TRUE;31
+526;prabumulih;FALSE;31
+527;sumatera selatan;TRUE;31
+528;asahan;TRUE;32
+529;batu bara;TRUE;32
+530;batubara;TRUE;32
+531;binjai;FALSE;32
+532;dairi;TRUE;32
+533;deli serdang;TRUE;32
+534;gunungsitoli;FALSE;32
+535;humbang hasundutan;TRUE;32
+536;karo;TRUE;32
+537;labuhan batu;TRUE;32
+538;labuhan batu selatan;TRUE;32
+539;labuhan batu utara;TRUE;32
+540;labuhanbatu;TRUE;32
+541;labuhanbatu selatan;TRUE;32
+542;labuhanbatu utara;TRUE;32
+543;langkat;TRUE;32
+544;mandailing natal;TRUE;32
+545;medan;FALSE;32
+546;nias;TRUE;32
+547;nias barat;TRUE;32
+548;nias selatan;TRUE;32
+549;nias utara;TRUE;32
+550;padang lawas;TRUE;32
+551;padang lawas utara;TRUE;32
+552;padangsidempuan;FALSE;32
+553;pakpak bharat;TRUE;32
+554;pematang siantar;FALSE;32
+555;samosir;TRUE;32
+556;serdang bedagai;TRUE;32
+557;sibolga;FALSE;32
+558;simalungun;TRUE;32
+559;sumatera utara;TRUE;32
+560;tanjung balai;FALSE;32
+561;tapanuli selatan;TRUE;32
+562;tapanuli tengah;TRUE;32
+563;tapanuli utara;TRUE;32
+564;tebing tinggi;FALSE;32
+565;toba samosir;TRUE;32
+566;bantul;TRUE;33
+567;gunung kidul;TRUE;33
+568;kulon progo;TRUE;33
+569;sleman;TRUE;33
+570;yogyakarta;FALSE;33
+571;yogyakarta;TRUE;33
