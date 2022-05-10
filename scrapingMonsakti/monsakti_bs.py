@@ -2,7 +2,6 @@ import requests
 import json
 import pandas as pd
 from dump import get_data
-import requests_random_user_agent
 from functools import reduce
 
 
