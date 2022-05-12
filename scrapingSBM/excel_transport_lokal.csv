@@ -1,0 +1,10 @@
+,satuan biaya transportasi dari dki jakarta ke kota/kabupaten sekitar,kota_asal,kota_tujuan,kota_kabupaten
+0,284000,Jakarta,Bekasi,kota
+1,284000,Jakarta,Bekasi,kabupaten
+2,300000,Jakarta,Bogor,kabupaten
+3,300000,Jakarta,Bogor,kota
+4,275000,Jakarta,Depok,kota
+5,286000,Jakarta,Tangerang,kota
+6,286000,Jakarta,Tangerang Selatan,kota
+7,310000,Jakarta,Tangerang,kabupaten
+8,428000,Jakarta,,Kepulauan Seribu
