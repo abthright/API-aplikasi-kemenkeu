@@ -1,8 +1,8 @@
 {
     "payload": {
         "MIME Type": "application/x-www-form-urlencoded; charset=UTF-8",
-        "userid": 418139,
-        "password": 65206396
+        "userid": "xxx",
+        "password": "xxx"
     },
     "cookies": {
         "PHPSESSID": "5647ce3711be9b6967a2cda41716819a",
