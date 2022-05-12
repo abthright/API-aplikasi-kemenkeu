@@ -53,7 +53,7 @@ def count_column_row_num(table,column_names):
     n_rows=0
 
     # Find number of rows and columns
-    # we also find the column titles if we can
+    # we also find the column titles if we can - uraian,kota,biaya, dst
     for row in table.find_all("tr", {'class':'All'}):
         
         # Determine the number of rows in the table
@@ -76,18 +76,31 @@ def create_df(name,table_size,column_names):
     columns = column_names + ['sub_category'] if len(column_names) > 0 else range(0,table_size['n_columns']+1)
     df = pd.DataFrame(columns = columns, index= range(0,table_size['n_rows']))
     sub_category_list = []
-    empty_df = pd.DataFrame(columns = columns, index= range(0,table_size['n_rows']))
+    empty_df = pd.DataFrame(columns = columns, index= range(0,table_size['n_rows'])) #!!!!!whats this for, its the same empty df as 'df'
 
     row_marker = 0
-    counter = 0
+    counter = 0 #Counter is used to determine the tr type, to determine it's hierarchy in the document - does it contain sub or not)
     n_loop_size = len(table.find_all('tr'))
     sub_category = ''
     skip_title_counter = 0
     limit_counter = 1
 
     for row in table.find_all("tr"):
+
+          
+        exception_word = {
+        'R I A U' : 'RIAU',
+        'J A M B I' : 'JAMBI',
+        'B A L I' : 'BALI',
+        'P A P U A' : 'PAPUA',
+        'B A N T E N' : 'BANTEN'     
+      }
+        exception_list = list(exception_word)
+
         counter += 1
 
+        #is_sub_class vs is_all_class used to check the tr class. if it _sub it means title, if it _all means it is row value
+        #is_sub_category vs is_main_category used to check the tr hierarchy in the table. if it _sub it means sub category, if it main means main category that contains sub category
         is_sub_category = row.find_next('tr')['class'][0] == 'All' if counter!=n_loop_size else False
         is_sub_class = row['class'][0] == 'Sub' if row.has_attr('class') else False
         is_main_category = row.find_next('tr')['class'][0] == 'Sub' if counter!=n_loop_size else False
@@ -98,7 +111,7 @@ def create_df(name,table_size,column_names):
           sub_category = row.find_next('b').get_text().strip().lower()
           sub_category_list.append(sub_category)
 
-        #exclude multiple main class
+        #exclude multiple main class - sometimes there will be multiple tr that contains sub. only rarely so just exclude. because this code currently cant read that
         elif is_sub_class and is_main_category :
           skip_title_counter+=1
           is_anomaly = row.find_next('tr').find_next('tr')['class'][0] == 'Sub' if counter!=n_loop_size-1 else False
@@ -107,12 +120,13 @@ def create_df(name,table_size,column_names):
             df = df[:row_marker]
             break
         
-        #input all subclass item
+        #input all subclass item - copy value to df
         if is_all_class: 
           column_marker = 0
           columns = row.find_all('td')
           for column in columns:
-              content = int(column.get_text().strip().replace('.','')) if column.get_text().strip().strip('.').replace('.','').isnumeric() else column.get_text().strip()
+              content = int(column.get_text().strip().replace('.','')) if column.get_text().strip().strip('.').replace('.','').isnumeric() else column.get_text().strip().replace('.','').replace('  ',' ')
+              if content in exception_list : content = exception_word[content]
               df.iat[row_marker,column_marker] = content
               df.sub_category[row_marker] = sub_category
               column_marker += 1
@@ -146,13 +160,7 @@ def create_df(name,table_size,column_names):
         df[['kota_kabupaten','kota_tujuan','hapus']] = df.kota_tujuan.str.replace('Kab. ','kabupaten,').str.replace('Kota ','kota,').str.split(',',expand=True)
         #[[[[[[kemarin]]]]]] ini malah program tetep jalan tapi value error, udh di save excel nya
       except ValueError : print(df.kota_tujuan.str.replace('Kab. ','kabupaten,').str.replace('Kota ','kota,').str.split(',',expand=True).head(5))
-    
-    df.replace({
-      'R I A U' : 'RIAU',
-      'J A M B I' : 'JAMBI',
-      'B A L I' : 'BALI',
-      'P A P U A' : 'PAPUA',      
-    }, inplace=True)
+
 
     df.reset_index(inplace=True)
     return df.drop(['level_0','index','satuan','sub_category','hapus'],axis=1,errors='ignore')
