@@ -9,8 +9,8 @@ def get_data(filter_type):
     data = {
         'payload' : {
             'MIME Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-            'userid': 418139,
-            'password': 65206396,
+            'userid': "xxxxxx",
+            'password': "xxxxx",
         },
 
         'cookies' : {
