@@ -18,8 +18,8 @@ def parse_html_table(name,table):
 
 def get_html_doc(url_requested):
   payload = {
-    'iduser': 418139,
-    'password': 'Deputitiga',
+    'iduser': xxx,
+    'password': 'xxxx',
     'thang': 2022,
   }
 
